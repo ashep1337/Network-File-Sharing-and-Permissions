@@ -34,7 +34,7 @@ This tutorial briefly details how to assign specific file permissions to network
 
 </p>
 <p>
-Create a group resource and virtual machines within Microsoft Azure. Reference https://github.com/chrisrraP/configure-ad to learn how to create virtual machines. Log into server (DC-1) and create 3 folders titled after their permission settings (read-access, write-access, and no access). Create a fourth folder called "accountants".
+Create a group resource and virtual machines within Microsoft Azure. Reference https://github.com/ashep1337/configure_ad to learn how to create virtual machines. Log into server (DC-1) and create 3 folders titled after their permission settings (read-access, write-access, and no access). Create a fourth folder called "accountants".
 <br />
 
 <p>
